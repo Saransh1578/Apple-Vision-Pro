@@ -410,22 +410,7 @@ html,body{
     width: 100vw;
     background-color: white;
 }
-#left14
-{
-    position: relative;
-    height: 90%;
-    width: 45%;
-    background-image: url(https://www.apple.com/v/apple-vision-pro/c/images/overview/design/glass_top__k3b8lzqd1l2m_large.jpg);
-    background-size: cover;
-}
-#right14
-{
-    position: relative;
-    height: 90%;
-    width: 45%;
-    background-image: url(https://www.apple.com/v/apple-vision-pro/c/images/overview/design/glass_side__gm4agomrwl2e_large.jpg);
-    background-size: cover;
-}
+
 #page15
 {
     position: relative;
@@ -445,51 +430,6 @@ html,body{
     height: 100%;
     width: 100%;
     object-fit: cover;
-}
-#page16
-{
-    position: relative;
-    height: 120vh;
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-#page16>h2{
-    position: absolute;
-    width: 50%;
-    color: #434343c7;
-    font-weight: 500;
-    top: 5%;
-}
-#page16>h2>span
-{
-    color: black;
-}
-#page16>img{
-    width: 60%;
-    position: absolute;
-    bottom: 0%;
-}
-#page16>button
-{
-    position: absolute;
-    bottom: 10%;
-    padding: 10px 20px;
-    font-size: 1.5vw;
-    border-radius: 50px;
-    background-color: #ff823d;
-    color: white;
-    font-weight: 500;
-    border: none;
-}
-#page17
-{
-    position: relative;
-    height: 100vh;
-    width: 100vw;
-    top: 0%;
 }
 #page17>canvas{
     position: relative;
